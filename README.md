@@ -15,4 +15,4 @@ Input: nums = [23, 2, 4, 6, 7], k = 6
 Output: true
 Explanation: [2, 4] is a subarray of nums whose sum is 6, which is a multiple of k.
 ```
-# Para visualizar a solução do desafio, navegue até a pasta "src" no arquivo "index.ts".
+### Para visualizar a solução do desafio, navegue até a pasta "src" no arquivo "index.ts".
