@@ -1,4 +1,4 @@
-# test-devjr-subarray
+# test-dev-subarray
 Continuous Subarray Sum
 # Desafio Técnico - Check Subarray Sum
 
